@@ -1,7 +1,7 @@
 
 services:
   app:
-    image: ghcr.io/mattgayheart/template-test:3edb5e3fc870e21aea1e848528ddfdae33b4e8c3 # DEPLOY_IMAGE
+    image: ghcr.io/mattgayheart/template-test:a923e30d052693b4bedda0382dc26c0fd482e354 # DEPLOY_IMAGE
     restart: unless-stopped
 
     networks:
